@@ -35,6 +35,7 @@ GSC Cons:
 * Need to be host for GSCs
 
 <hr>
+
 BES Pros:
 * Undetectable (w/o Methods)
 * Simple to use
